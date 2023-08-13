@@ -24,5 +24,4 @@ namespace ExFixComposicao.Entities
             return Name +" ("+ BirthDate.ToString("dd/MM/yyyy") +") - "+ Email;
         }
     }
-
 }
